@@ -1,0 +1,175 @@
+{
+  "categoria": [
+    {
+      "id": 1,
+      "nombre": "Placas solares fotovoltaicas",
+      "descripcion": "Estas placas solares consisten en células solares fotovoltaicas que se activan cuando la luz del sol las alcanza, lo que provoca la liberación de electrones que generan energía eléctrica a través de su interacción."
+    },
+    {
+      "id": 2,
+      "nombre": "Placas solares térmicas",
+      "descripcion": "Estas placas fotovoltaicas convierten la luz solar en electricidad, mientras que los paneles o colectores térmicos la transforman en energía térmica o calor."
+    },
+    {
+      "id": 3,
+      "nombre": "Placas solares híbridas",
+      "descripcion": "La tecnología de las placas solares está en una fase de desarrollo que permite combinar las ventajas de las células fotovoltaicas y los colectores térmicos en un único sistema, lo que resulta en una solución más eficiente y versátil."
+    }
+  ],
+  "Tamanno": [
+    {
+      "id": 1,
+      "tamaño": {
+        "ancho": 100,
+        "largo": 200
+      }
+    },
+    {
+      "id": 2,
+      "tamaño": {
+        "ancho": 120,
+        "largo": 240
+      }
+    },
+    {
+      "id": 3,
+      "tamaño": {
+        "ancho": 150,
+        "largo": 300
+      }
+    }
+  ],
+  "marca": [
+    {
+      "id": 1,
+      "nombre": "SunPower"
+    },
+    {
+      "id": 2,
+      "nombre": "LG Solar"
+    },
+    {
+      "id": 3,
+      "nombre": "Trina Solar"
+    }
+  ],
+  "producto": [
+    {
+      "id": 1,
+      "idCategoria": 1,
+      "idTamanno": 1,
+      "idMarca": 1,
+      "nombre": "Placa Solar SunPower 100x200",
+      "descripcion": "Esta placa solar fotovoltaica SunPower de alta eficiencia es perfecta para maximizar la producción de energía en espacios limitados. Con su tamaño compacto de 100x200 cm, ofrece un rendimiento excepcional y una vida útil prolongada, lo que la convierte en una inversión inteligente para su hogar o negocio.",
+      "linkImagen": ""
+    },
+    {
+      "id": 2,
+      "idCategoria": 1,
+      "idTamanno": 2,
+      "idMarca": 1,
+      "nombre": "Placa Solar SunPower 120x240",
+      "descripcion": "Aproveche al máximo la energía del sol con nuestra placa solar fotovoltaica SunPower de 120x240 cm. Con tecnología de vanguardia y alta eficiencia, esta placa es ideal para reducir sus facturas de energía y minimizar su huella de carbono. No pierda la oportunidad de invertir en un futuro energético sostenible.",
+      "linkImagen": ""
+    },
+    {
+      "id": 3,
+      "idCategoria": 1,
+      "idTamanno": 3,
+      "idMarca": 1,
+      "nombre": "Placa Solar SunPower 150x300",
+      "descripcion": "Maximice su producción de energía solar con nuestra placa solar fotovoltaica SunPower de 150x300 cm. Su diseño de alta eficiencia y durabilidad garantiza un rendimiento óptimo durante años. Invierta en energía limpia y sostenible para su hogar o empresa con esta excelente opción.",
+      "linkImagen": ""
+    },
+    {
+      "id": 4,
+      "idCategoria": 1,
+      "idTamanno": 1,
+      "idMarca": 2,
+      "nombre": "Placa Solar LG Solar 100x200",
+      "descripcion": "La placa solar fotovoltaica LG Solar de 100x200 cm combina tecnología innovadora y eficiencia energética para brindarle una solución de energía limpia y confiable. Ideal para espacios reducidos, esta placa solar captura eficientemente la luz del sol para generar electricidad y reducir su dependencia de los combustibles fósiles.",
+      "linkImagen": ""
+    },
+    {
+      "id": 5,
+      "idCategoria": 1,
+      "idTamanno": 2,
+      "idMarca": 2,
+      "nombre": "Placa Solar LG Solar 120x240",
+      "descripcion": "",
+      "linkImagen": ""
+    },
+    {
+      "id": 6,
+      "idCategoria": 1,
+      "idTamanno": 3,
+      "idMarca": 2,
+      "nombre": "Placa Solar LG Solar 150x300",
+      "descripcion": "",
+      "linkImagen": ""
+    },
+    {
+      "id": 7,
+      "idCategoria": 1,
+      "idTamanno": 1,
+      "idMarca": 3,
+      "nombre": "Placa Solar Trina Solar 100x200",
+      "descripcion": "",
+      "linkImagen": ""
+    },
+    {
+      "id": 8,
+      "idCategoria": 1,
+      "idTamanno": 2,
+      "idMarca": 3,
+      "nombre": "Placa Solar Trina Solar 120x240",
+      "descripcion": "",
+      "linkImagen": ""
+    },
+    {
+      "id": 9,
+      "idCategoria": 1,
+      "idTamanno": 3,
+      "idMarca": 3,
+      "nombre": "Placa Solar Trina Solar 150x300",
+      "descripcion": "",
+      "linkImagen": ""
+    },
+    {
+      "id": 10,
+      "idCategoria": 2,
+      "idTamanno": 1,
+      "idMarca": 1,
+      "nombre": "Placa Solar Térmica SunPower 100x200",
+      "descripcion": "",
+      "linkImagen": ""
+    },
+    {
+      "id": 11,
+      "idCategoria": 2,
+      "idTamanno": 2,
+      "idMarca": 1,
+      "nombre": "Placa Solar Térmica SunPower 120x240",
+      "descripcion": "",
+      "linkImagen": ""
+    },
+    {
+      "id": 12,
+      "idCategoria": 2,
+      "idTamanno": 3,
+      "idMarca": 1,
+      "nombre": "Placa Solar Térmica SunPower 150x300",
+      "descripcion": "",
+      "linkImagen": ""
+    },
+    {
+      "id": 13,
+      "idCategoria": 2,
+      "idTamanno": 1,
+      "idMarca": 2,
+      "nombre": "Placa Solar Térmica LG Solar 100x200",
+      "descripcion": "",
+      "linkImagen": ""
+    }
+  ]
+}
