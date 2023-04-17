@@ -19,21 +19,21 @@
   "Tamanno": [
     {
       "id": 1,
-      "tamaño": {
+      "tamanno": {
         "ancho": 100,
         "largo": 200
       }
     },
     {
       "id": 2,
-      "tamaño": {
+      "tamanno": {
         "ancho": 120,
         "largo": 240
       }
     },
     {
       "id": 3,
-      "tamaño": {
+      "tamanno": {
         "ancho": 150,
         "largo": 300
       }
