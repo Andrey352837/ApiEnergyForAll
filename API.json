@@ -19,24 +19,16 @@
   "Tamanno": [
     {
       "id": 1,
-      "tamanno": {
-        "ancho": 100,
-        "largo": 200
-      }
+      "tamanno": "ancho 100 y largo200"
+     
     },
     {
       "id": 2,
-      "tamanno": {
-        "ancho": 120,
-        "largo": 240
-      }
+       "tamanno": "ancho 100 y largo200"
     },
     {
       "id": 3,
-      "tamanno": {
-        "ancho": 150,
-        "largo": 300
-      }
+       "tamanno": "ancho 100 y largo200"
     }
   ],
   "marca": [
