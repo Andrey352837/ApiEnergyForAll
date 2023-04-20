@@ -53,14 +53,14 @@
 "idMarca": 1,
 "nombre": "Placa Solar SunPower 120x240",
 "descripcion": "Esta placa solar fotovoltaica SunPower de alta eficiencia es perfecta para maximizar la producción de energía en espacios limitados. Con su tamaño compacto de 100x200 cm, ofrece un rendimiento excepcional y una vida útil prolongada, lo que la convierte en una inversión inteligente para su hogar o negocio.",
-"linkImagen": "https://drive.google.com/uc?export=download&id=16mKG_KBs_8DJ25o-Fs-NsoFaNR9zZqVL"
+"linkImagen": "https://drive.google.com/uc?export=download&id=1A11JYI7VhdjQBO4SEDhksLq_uS7sUOWO"
 },
 {
 "id": 2,
 "idCategoria": 1,
-"idTamanno": 2,
+"idTamanno": 1,
 "idMarca": 1,
-"nombre": "Placa Solar SunPower 150x300",
+"nombre": "Placa Solar SunPower 120x240",
 "descripcion": "Aproveche al máximo la energía del sol con nuestra placa solar fotovoltaica SunPower de 120x240 cm. Con tecnología de vanguardia y alta eficiencia, esta placa es ideal para reducir sus facturas de energía y minimizar su huella de carbono. No pierda la oportunidad de invertir en un futuro energético sostenible.",
 "linkImagen": "https://drive.google.com/uc?export=download&id=1rFrQpYqylvPOLZLPGBlD0tYoUlff5ECO"
 },
@@ -71,7 +71,7 @@
 "idMarca": 1,
 "nombre": "Placa Solar SunPower 180x360",
 "descripcion": "Maximice su producción de energía solar con nuestra placa solar fotovoltaica SunPower de 150x300 cm. Su diseño de alta eficiencia y durabilidad garantiza un rendimiento óptimo durante años. Invierta en energía limpia y sostenible para su hogar o empresa con esta excelente opción.",
-"linkImagen": "https://drive.google.com/uc?export=download&id=1-BqwuS_mrtUUZJED8HVuiqPmKqj6V_-F"
+"linkImagen": "https://drive.google.com/uc?export=download&id=1kkRKleWn9hgy6khHcBrSk-N7tbbmL6QI"
 },
 {
 "id": 4,
@@ -80,7 +80,7 @@
 "idMarca": 2,
 "nombre": "Placa Solar LG Solar 120x240",
 "descripcion": "La placa solar fotovoltaica LG Solar de 100x200 cm combina tecnología innovadora y eficiencia energética para brindarle una solución de energía limpia y confiable. Ideal para espacios reducidos, esta placa solar captura eficientemente la luz del sol para generar electricidad y reducir su dependencia de los combustibles fósiles.",
-"linkImagen": "https://drive.google.com/uc?export=download&id=1JX9UHI5mXklrU4LoN0-6zoLaFhLb3YL4"
+"linkImagen": "https://drive.google.com/uc?export=download&id=1jsS8d7ihm4xpqZbl-8aZoc6s2HVtn5_k"
 },
 {
 "id": 5,
@@ -89,7 +89,7 @@
 "idMarca": 2,
 "nombre": "Placa Solar LG Solar 150x300",
 "descripcion": "Con los paneles solares LG NeON® 2 de 120 células, podrá generar energía limpia para su hogar. Estos paneles son ideales para instalaciones residenciales de tamaño medio, donde el espacio es limitado pero se desea una producción energética elevada. Con su alta eficiencia de más de 20% y garantía de 25 años, son una excelente inversión para el futuro.",
-"linkImagen": "https://drive.google.com/uc?export=download&id=1yrGR9m4xZT66FgwDNxQAL0fEkwL3I5FQ"
+"linkImagen": "https://drive.google.com/uc?export=download&id=1Ej-0l5OEF9PFQESdkDJrJB-SQ0j1ZKz6"
 },
 {
 "id": 6,
@@ -98,7 +98,7 @@
 "idMarca": 2,
 "nombre": "Placa Solar LG Solar 180x360",
 "descripcion": "Produzca su propia electricidad 100% limpia con los paneles solares LG NeON® 2 de 144 células. Estos paneles de alto rendimiento están diseñados para grandes instalaciones residenciales e industriales, donde maximizar la producción energética es una prioridad. Con una garantía de 25 años, son una inversión segura para un futuro más verde.",
-"linkImagen": "https://drive.google.com/uc?export=download&id=1FEhYwKm3MQMcOjnunIAOIaJ7pYPC4jDG"
+"linkImagen": "https://drive.google.com/uc?export=download&id=1gDyZHEW93pNvREhs1_qxUFjpKmr_Ec4D"
 },
 {
 "id": 7,
@@ -107,7 +107,7 @@
 "idMarca": 3,
 "nombre": "Placa Solar Trina Solar 120x240",
 "descripcion": "Los paneles solares Trina Solar de 100x200 cm son una opción económica y eficiente para generar energía limpia en su hogar. Fabricados con tecnología monocristalina, ofrecen un alto rendimiento y durabilidad en poco espacio. Aproveche la energía del sol para reducir sus facturas de luz y hacer un uso más sostenible de la electricidad.",
-"linkImagen": "https://drive.google.com/uc?export=download&id=1xzNKo00YxGzNPJorh5INO_cmdfUsyoIm"
+"linkImagen": "https://drive.google.com/uc?export=download&id=1dgdru3f6jwzSKGqOpuBSNMpINEbCtjxU"
 },
    {
 "id": 8,
@@ -116,7 +116,7 @@
 "idMarca": 3,
 "nombre": "Placa Solar Trina Solar 150x300",
 "descripcion": "Los paneles solares Trina Solar de 120x240 cm ofrecen una excelente relación calidad-precio para systistemas fotovoltaicos de tamaño medio. Fabricados con tecnología monocristalina de alto rendimiento, permiten maximizar la producción de energía limpia en espacios residenciales y comerciales.",
-"linkImagen": "https://drive.google.com/uc?export=download&id=1xzNKo00YxGzNPJorh5INO_cmdfUsyoIm"
+"linkImagen": "https://drive.google.com/uc?export=download&id=1WjDJE-gJ1uNPkx4P8AeZsJAIj9pDC_hp"
 },
 {
 "id": 9,
@@ -125,7 +125,7 @@
 "idMarca": 3,
 "nombre": "Placa Solar Trina Solar 180x360",
 "descripcion": "Para grandes proyectos de energía solar, los paneles Trina Solar de 150x300 cm son la opción ideal. Fabricados con tecnología monocristalina de punta, ofrecen un rendimiento superior al 20% y una máxima eficiencia energética. Confíe en la marca líder mundial en paneles solares y apueste a un futuro más sustentable con esta excelente solución fotovoltaica.",
-"linkImagen": "https://drive.google.com/uc?export=download&id=1xzNKo00YxGzNPJorh5INO_cmdfUsyoIm"
+"linkImagen": "https://drive.google.com/uc?export=download&id=1pdb8RAeLT1d_8d9y2BOGBJSySBeVzP4L"
 },
 {
 "id": 10,
@@ -134,7 +134,7 @@
 "idMarca": 1,
 "nombre": "Placa Solar Térmica SunPower 120x240",
 "descripcion": "Las placas solares térmicas SunPower de 100x200 cm son perfectas para proporcionar agua caliente sanitaria en hogares y empresas. Fabricadas por la marca líder en tecnología solar, ofrecen un rendimiento superior y durabilidad a lo largo del tiempo. Reduzca sus facturas de gas con esta solución térmica 100% limpia y renovable.",
-"linkImagen": "https://drive.google.com/uc?export=download&id=1KJnTxQ6mjugcxtIxdQCRlGF4GEs1YXDV"
+"linkImagen": "https://drive.google.com/uc?export=download&id=1pdb8RAeLT1d_8d9y2BOGBJSySBeVzP4L"
 },
 {
 "id": 11,
@@ -143,7 +143,7 @@
 "idMarca": 1,
 "nombre": "Placa Solar Térmica SunPower 150x300",
 "descripcion": "Obtenga abundante agua caliente sanitaria con las placas solares térmicas SunPower de 120x240 cm. Fabricadas con materiales de la más alta calidad, ofrecen un rendimiento superior durante años de funcionamiento. Ahorre en su factura de gas y apueste por una energía 100% limpia con esta excelente solución térmica.",
-"linkImagen": "https://drive.google.com/uc?export=download&id=1sUv6Qt16optCu-1WE8ojHkOh_Uu1s6eq"
+"linkImagen": "https://drive.google.com/uc?export=download&id=NpvGHkNbf-VWFVW0R1UI96o6YqsCKQ_y"
 },
 {
 "id": 12,
@@ -152,7 +152,7 @@
 "idMarca": 3,
 "nombre": "Placa Solar Térmica Trina Solar 180x360",
 "descripcion": "Obtenga una solución térmica integral con las placas solares SunPower de 150x300 cm. Fabricadas por los pioneros de la tecnología solar, garantizan un rendimiento máximo durante décadas de funcionamiento. Aproveche el poder del sol para reducir su dependencia de los combustibles fósiles y hacer un uso más sostenible de la energía.",
-"linkImagen": "https://drive.google.com/uc?export=download&id=13egIqAWHNox2W8P4R3emTostmWwLEyK-"
+"linkImagen": "https://drive.google.com/uc?export=download&id=1uPyezkBzQmF5onYxHO1TiiVtl4Hocyqo"
 },
 {
 "id": 13,
@@ -161,7 +161,7 @@
 "idMarca": 2,
 "nombre": "Placa Solar LG Solar Solar 120x240",
 "descripcion": "Obtenga agua caliente sanitaria en forma económica y sostenible con las placas solares térmicas LG Solar de 100x200 cm. Gracias a su tecnología de punta, ofrecen un alto rendimiento durante décadas de uso. Reduzca su dependencia del gas natural y disfrute de una solución energética ecológica con esta excelente opción térmica.",
-"linkImagen": "https://drive.google.com/uc?export=download&id=1NSPkaA04luf1tJtKvKxfLSdGc3TIeyqU"
+"linkImagen": "https://drive.google.com/uc?export=download&id=1OG6LzKw8SuKoKd_SU1vWqOy5ENrtm6Oo"
 }
 ]
 }
